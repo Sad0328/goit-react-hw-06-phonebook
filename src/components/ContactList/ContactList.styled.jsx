@@ -22,6 +22,6 @@ export const Item = styled.li`
 export const Button = styled.button`
   padding: 8px 8px;
   cursor: pointer;
-  box-shadow: 5px 5px;
-  color: #00ffff;
+  
+  color: #007fff;
 `;
